@@ -31,7 +31,6 @@ FillArray(array);
 PrintArray(array);
 Console.WriteLine();
 
-int count = 0;
 int[,] dictionary = new int[m * n, 2];
 int k = 0;
 
